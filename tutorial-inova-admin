@@ -1,0 +1,21 @@
+==================================================================================================
+==================================================================================================
+=============================== INOVA ADMIN TUTORIAL =============================================
+
+
+Sistema de Admin e operações CRUD 
+
+
+Passo a passo para rodar a aplicação:
+
+1- Utilizando o MongoDB Compass, criar a database Inova-Admin com a collection users e importar base de dados, em formato JSON, no MongoDB. 
+
+2- git clone : https://github.com/joao-avelino-92/inova-admin.git
+
+3- Para instalar as dependencias da aplicação executar: "yarn add dependencies"
+
+4- Para acessar a aplicação via navegador acessar: http://localhost:3000/admin/login
+
+usuario: master@test.com ou master2@test.com ou dev3@test.com
+senha: 123456
+

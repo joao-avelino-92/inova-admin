@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5f4115341858611a710e0b06"},"name":"admin","city":"Itaperuna","email":"admin@test.com","phone":"(22)999999999","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f4115571858611a710e0b07"},"name":"Dev1","city":"Itaperuna","email":"dev1@test.com","phone":"(22)999999998","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f4115721858611a710e0b08"},"name":"Dev2","city":"Itaperuna","email":"dev2@test.com","phone":"(22)999999987","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f41158b1858611a710e0b09"},"name":"Dev3","city":"Itaperuna","email":"dev3@test.com","phone":"(22)999999874","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f411c8ac40f3f24605151a9"},"name":"master","city":"Itaperuna","email":"master@test.com","phone":"(22)999888778","encryptedPassword":"$argon2i$v=19$m=4096,t=3,p=1$rR+bunWo4VvS1nSU4Dn9yQ$9ilDTcDfo8WyhS8oJjH40IvwsykZsnIGFobYhiYn31g","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f411d76bf418c24d4c47c24"},"name":"master2","city":"Itaperuna","email":"master2@test.com","phone":"(22)999999999","encryptedPassword":"$argon2i$v=19$m=4096,t=3,p=1$4SYoAbfd5fv/fI2pHFUolg$oKHFgemCk3wo4tFgGD9WmXx9ZTOPRRhNOXHQMNOvKpE","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5f41948e8b76c86d105f7c24"},"name":"dev3","city":"Itaperuna","email":"dev3@test.com","phone":"(22)999888111","encryptedPassword":"$argon2i$v=19$m=4096,t=3,p=1$eeFaE73LPAdWpcL+KNBiyw$SHe4k/poeb2PAj2LYIz8PJGnXcoT9K35v0oT9M/miHY","__v":{"$numberInt":"0"}}
